@@ -1,0 +1,10 @@
+int vs. float
+
+Quiz Question
+
+In the fishy situation below, some of the quantities are of type int and some are of type float. Check all the ones that should be of type float.
+
+False - How many people came on your fishing trip
+True - length of a fish you caught, in meters
+False - number of fish caught on the trip
+True - Length of time it took to catch the first fish, in hours

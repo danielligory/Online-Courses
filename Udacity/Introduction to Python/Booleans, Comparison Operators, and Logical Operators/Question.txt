@@ -1,0 +1,14 @@
+Question 1
+Quiz: Which is denser, Rio or San Francisco?
+Try comparison operators in this quiz! This code calculates the population densities of Rio de Janeiro and San Francisco.
+
+Write code to compare these densities. Is the population of San Francisco more dense than that of Rio de Janeiro? Print True if it is and False if not.
+
+
+
+
+
+Question 2
+Why do you think Python uses == for checking equality rather than =?
+
+answer - because = is used to assign variables

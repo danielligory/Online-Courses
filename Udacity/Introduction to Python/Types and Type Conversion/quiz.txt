@@ -1,0 +1,22 @@
+Question 1
+What type does this object have? "12". There is a coding environment further down this page that you can use for experimentation. Enter your code and run it with the "Test Run" button.
+
+-- str
+
+Question 2
+What type does this object have? 12.3 There is a coding environment further down this page that you can use for experimentation. Enter your code and run it with the "Test Run" button.
+-- float
+
+Question 3
+What type does this object have? len("my_string") There is a coding environment further down this page that you can use for experimentation. Enter your code and run it with the "Test Run" button.
+-- int
+
+Question 4
+What type does this object have? "hippo" *12 There is a coding environment further down this page that you can use for experimentation. Enter your code and run it with the "Test Run" button.
+-- str
+
+Question 5
+Quiz: Total Sales
+In this quiz, you’ll need to change the types of the input and output data in order to get the result you want.
+
+Calculate and print the total sales for the week from the data provided. Print out a string of the form "This week's total sales: xxx", where xxx will be the actual total of all the numbers. You’ll need to change the type of the input data in order to calculate that total.

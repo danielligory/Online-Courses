@@ -1,0 +1,11 @@
+Quiz Question
+
+What happens when you call a string method like islower() on a float object? For example, 13.37.islower().
+
+-- an error occurs
+
+Question 2
+
+format() Practice
+Use the coding space below to practice using the format() string method. There are no right or wrong answers here, just practice!
+

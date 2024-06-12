@@ -1,0 +1,49 @@
+Question 1
+
+Quiz: Define a Dictionary
+Define a dictionary named population that contains this data:
+
+Keys	Values
+Shanghai	17.8
+Istanbul	13.3
+Karachi	13.0
+Mumbai	12.5
+
+
+Question 2
+
+Quiz Question
+
+Which of these could be used as the key for a dictionary? (Choose all that apply.) Hint: Dictionary keys must be immutable, that is, they must be of a type that is not modifiable.
+
+-- str
+-- int
+-- float
+
+
+Question 3
+
+Quiz Question
+
+What happens if we look up a value that isn't in the dictionary? Create a test dictionary and use the square brackets to look up a value that you haven't defined. What happens?
+
+-- A KeyError occurs
+
+
+Question 4
+
+Quiz Question
+
+What will the output of the following code be? (Treat the commas in the multiple choice answers as newlines.)
+
+a = [1, 2, 3]
+b = a
+c = [1, 2, 3]
+
+print(a == b)
+print(a is b)
+print(a == c)
+print(a is c)
+
+-- True, True, True, False
+

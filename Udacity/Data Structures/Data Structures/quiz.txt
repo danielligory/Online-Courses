@@ -1,0 +1,35 @@
+Question 1
+Which of the following statements about tuples are true? Select all that apply.
+
+-- A tuple is an ordered data structure
+-- A tuple can be indexed and sliced like a list
+
+
+Question 2
+Which of the following statements about sets are true? Select all that apply.
+
+-- A set is a mutable data structure
+-- A set does not contain duplicate elements
+
+
+Question 3
+Is the following statement true or false?
+A set is the only data structure defined with curly brace: {}
+
+-- false
+
+Question 4
+Which of the follow statements about dictionaries are true? Select all
+that apply
+
+-- A dictionary is mutable data structure
+-- A dictionary can be indexed using keys
+-- The keys of a dictionary are unique
+
+Python Question
+Run the code below - it should break. Take a look at the error message and try to figure out what the issue is. Then, answer the quiz question below the editor.
+
+Question 5
+What's wrong with the code above?
+
+-- The dictionary is using a mutable datatype for its keys

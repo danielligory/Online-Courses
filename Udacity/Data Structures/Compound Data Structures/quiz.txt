@@ -1,0 +1,7 @@
+Quiz: Adding Values to Nested Dictionaries
+Try your hand at working with nested dictionaries. Add another entry, 'is_noble_gas,' to each dictionary in the elements dictionary. After inserting the new entries you should be able to perform these lookups:
+
+>>> print(elements['hydrogen']['is_noble_gas'])
+False
+>>> print(elements['helium']['is_noble_gas'])
+True

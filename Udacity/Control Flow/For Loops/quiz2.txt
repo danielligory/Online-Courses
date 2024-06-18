@@ -1,0 +1,13 @@
+Quiz Question
+
+Let's say instead of creating a new list, we want to modify the names list itself with the changes and write the following code. What would this do?
+
+names = ["Joey Tribbiani", "Monica Geller", "Chandler Bing", "Phoebe Buffay"]
+
+for name in names:
+    name = name.lower().replace(" ", "_")
+
+print(names)
+
+
+-- The printed output for the names list will look exactly like it did in the line

@@ -1,0 +1,20 @@
+Quiz Question
+
+Practice with range
+For each below, match the input code to the appropriate output.
+
+print(list(range(4)))
+
+[0,1,2,3]
+
+print(list(range(4,8)))
+
+[4,5,6,7]
+
+print(list(range(4,10,2)))
+
+[4,6,8]
+
+print(list(range(0,-5)))
+
+[ ]

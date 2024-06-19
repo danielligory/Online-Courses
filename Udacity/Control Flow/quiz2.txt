@@ -1,0 +1,13 @@
+Use the code below to complete the next quiz.
+
+colors = ['Red', 'Blue', 'Green', 'Purple']
+lower_colors = [ ]
+
+for color in colors:
+    #finish this part
+
+Quiz Question
+
+If you want to create a new list called lower_colors, where each color in colors is lower cased, which code line should be inserted into the code block above?
+
+-- lower_colors.append(color.lower())

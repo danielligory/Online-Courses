@@ -1,0 +1,2 @@
+Quiz: Fruit Basket - Task 2
+If your solution is robust, you should be able to use it with any dictionary of items to count the number of fruits in the basket. Try the loop for each of the dictionaries below to make sure it always works.
